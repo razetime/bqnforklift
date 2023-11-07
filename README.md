@@ -1,2 +1,6 @@
 # bqnforklift
-things that are too long to be on BQNcrate, but too short to be their own library.
+Some of these may also be on Rosetta.
+
+| Name     | Description                  |
+| -------- | ---------------------------- |
+| `ee.bqn` | Extended Euclidean Algorithm |
